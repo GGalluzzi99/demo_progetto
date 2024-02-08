@@ -1,0 +1,29 @@
+label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  select {
+    margin-left: 5px;
+    padding: 8px;
+    font-size: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    transition: border-color 0.3s, box-shadow 0.3s;
+  }
+  
+  select:hover,
+  select:focus {
+    border-color: #007bff;
+    box-shadow: 0 2px 4px rgba(0, 123, 255, 0.2);
+  }
+  
+  /* Stile per gli option (facoltativo) */
+  option {
+    background-color: #fff;
+    color: #333;
+  }
+  

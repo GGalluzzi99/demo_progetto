@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 5px;
+  box-sizing: border-box;
+  font-family: 'Arial', sans-serif;
+  /* Aggiungi altri stili globali secondo necessità */
+}
+
+.title{
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+}
